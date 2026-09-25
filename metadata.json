@@ -1,0 +1,8 @@
+{
+  "name": "ILMHUB MATH",
+  "description": "Professional matematika ta'lim platformasi: bosqichma-bosqich masala yechish, 1-11 sinflar darsliklari, formulalar, testlar, ilmiy kalkulyator va AI ustoz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
